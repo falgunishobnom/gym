@@ -1,0 +1,224 @@
+Uri: https://phoenix.web-laboratory.pp.ua/
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\index.html
+Content Type: text/html
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/apple-icon-57x57.png.pagespeed.ce.JDvyNaH3jJ.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\apple-icon-57x57.png.pagespeed.ce.JDvyNaH3jJ.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/apple-icon-60x60.png.pagespeed.ce.SUs_Z7buz6.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\apple-icon-60x60.png.pagespeed.ce.SUs_Z7buz6.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/apple-icon-72x72.png.pagespeed.ce.maE5a2sE4u.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\apple-icon-72x72.png.pagespeed.ce.maE5a2sE4u.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/apple-icon-76x76.png.pagespeed.ce.VNVtqFbjpe.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\apple-icon-76x76.png.pagespeed.ce.VNVtqFbjpe.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/apple-icon-114x114.png.pagespeed.ce.mAzrPiE_Vd.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\apple-icon-114x114.png.pagespeed.ce.mAzrPiE_Vd.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/apple-icon-120x120.png.pagespeed.ce.zvJ0x6G_iD.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\apple-icon-120x120.png.pagespeed.ce.zvJ0x6G_iD.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/apple-icon-144x144.png.pagespeed.ce.XzLdadVAV_.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\apple-icon-144x144.png.pagespeed.ce.XzLdadVAV_.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/apple-icon-152x152.png.pagespeed.ce.7chRuYWNgk.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\apple-icon-152x152.png.pagespeed.ce.7chRuYWNgk.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/apple-icon-180x180.png.pagespeed.ce.pVGRXfPaSp.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\apple-icon-180x180.png.pagespeed.ce.pVGRXfPaSp.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/android-icon-192x192.png.pagespeed.ce.ITdBMDu4lQ.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\android-icon-192x192.png.pagespeed.ce.ITdBMDu4lQ.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/favicon-32x32.png.pagespeed.ce.qX-R_H7a6U.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\favicon-32x32.png.pagespeed.ce.qX-R_H7a6U.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/favicon-96x96.png.pagespeed.ce.YVHzZy1GQI.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\favicon-96x96.png.pagespeed.ce.YVHzZy1GQI.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/favicon-16x16.png.pagespeed.ce.ISVBOPJ_sB.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\favicon-16x16.png.pagespeed.ce.ISVBOPJ_sB.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/favicon/manifest.json
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\favicon\manifest.json
+Content Type: application/json
+
+Uri: https://phoenix.web-laboratory.pp.ua/A.libs,,_bootstrap-3.3.7,,_css,,_bootstrap.min.css+libs,,_bootstrap-3.3.7,,_css,,_bootstrap-theme.min.css+libs,,_font-awesome-4.7.0,,_css,,_font-awesome.min.css+assets,,_css,,_style.css+assets,,_css,,_responsive.css,Mcc.grHj-dP4Uv.css.pagespeed.cf.Mu1GMeypt6.css
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\A.libs,,_bootstrap-3.3.7,,_css,,_bootstrap.min.css libs,,_bootstrap-3.3.7,,_css,,_bootstrap-theme.min.css libs,,_font-awesome-4.7.0,,_css,,_font-awesome.min.css assets,,_css,,_style.css asset.css
+Content Type: text/css
+
+Uri: https://phoenix.web-laboratory.pp.ua/index.html
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\index-1.html
+Content Type: text/html
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/img/logo.png.pagespeed.ce.w8wMRKc_hD.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\img\logo.png.pagespeed.ce.w8wMRKc_hD.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/pagespeed_static/1.JiBnMqyl6S.gif
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\pagespeed_static\1.JiBnMqyl6S.gif
+Content Type: image/gif
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/jquery-3.2.1.min.js.pagespeed.jm.Y8jX7FH_5H.js
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\jquery-3.2.1.min.js.pagespeed.jm.Y8jX7FH_5H.js
+Content Type: application/javascript
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/bootstrap-3.3.7/js/bootstrap.min.js.pagespeed.jm.ACjAVc6v8f.js
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\bootstrap-3.3.7\js\bootstrap.min.js.pagespeed.jm.ACjAVc6v8f.js
+Content Type: application/javascript
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/js/scripts.min.js.pagespeed.jm.Ffpj_bemVF.js
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\js\scripts.min.js.pagespeed.jm.Ffpj_bemVF.js
+Content Type: application/javascript
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\bootstrap-3.3.7\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot?
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\bootstrap-3.3.7\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\bootstrap-3.3.7\fonts\glyphicons-halflings-regular.hxd
+Content Type: application/octet-stream
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\bootstrap-3.3.7\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\bootstrap-3.3.7\fonts\glyphicons-halflings-regular-1.hxd
+Content Type: application/octet-stream
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\bootstrap-3.3.7\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\font-awesome-4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\font-awesome-4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\font-awesome-4.7.0\fonts\fontawesome-webfont.hxd
+Content Type: application/octet-stream
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\font-awesome-4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\font-awesome-4.7.0\fonts\fontawesome-webfont-1.hxd
+Content Type: application/octet-stream
+
+Uri: https://phoenix.web-laboratory.pp.ua/libs/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\libs\font-awesome-4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Medium.eot
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Medium.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Medium.eot?
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Medium-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Medium.woff
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Medium.ttf
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Medium.hxd
+Content Type: application/octet-stream
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Light.eot
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Light.eot?
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Light.woff
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Light.woff
+Content Type: application/font-woff
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Light.ttf
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Light.hxd
+Content Type: application/octet-stream
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Bold.eot
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Bold.eot?
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Bold.woff
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Bold.ttf
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Bold.hxd
+Content Type: application/octet-stream
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Heavy.eot
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Heavy.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Heavy.eot?
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Heavy-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Heavy.woff
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Heavy.woff
+Content Type: application/font-woff
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/fonts/Oswald-Heavy.ttf
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\fonts\Oswald-Heavy.hxd
+Content Type: application/octet-stream
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/img/header.jpg.pagespeed.ce.ltUl22bsqJ.jpg
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\img\header.jpg.pagespeed.ce.ltUl22bsqJ.jpg
+Content Type: image/jpeg
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/img/about-gym-bg.jpg.pagespeed.ce.jgTbxrJxFp.jpg
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\img\about-gym-bg.jpg.pagespeed.ce.jgTbxrJxFp.jpg
+Content Type: image/jpeg
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/img/header-about-gym.png.pagespeed.ce.j6Ix8vOxX6.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\img\header-about-gym.png.pagespeed.ce.j6Ix8vOxX6.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/img/shedule-prices-bg.jpg.pagespeed.ce.LQp3Vh-B9B.jpg
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\img\shedule-prices-bg.jpg.pagespeed.ce.LQp3Vh-B9B.jpg
+Content Type: image/jpeg
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/img/header-shedule-prices.png.pagespeed.ce.IBKzD8KeLU.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\img\header-shedule-prices.png.pagespeed.ce.IBKzD8KeLU.png
+Content Type: image/png
+
+Uri: https://phoenix.web-laboratory.pp.ua/assets/img/footer-bottom.png.pagespeed.ce._vQqP4tB0s.png
+File Name: C:\Users\raghi\Desktop\Phoenix Gym\phoenix.web-laboratory.pp.ua\assets\img\footer-bottom.png.pagespeed.ce._vQqP4tB0s.png
+Content Type: image/png
+
